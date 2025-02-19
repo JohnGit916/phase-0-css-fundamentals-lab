@@ -3,3 +3,55 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/*Exceptional Realty Group*/
+
+h1 {
+  text-align: center;
+}
+
+/* featured-property */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  width: 900px;
+}
+
+.center p {
+  width: 900px;
+}
+
+
+nav {
+text-align: center;
+}
+
+nav a {
+  padding: 10px;
+  background-color: grey;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+
+/*Footer*/
+
+#details {
+  background-color: red;
+  color: black;
+  display: inline-flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 0;
+  width: 100%;
+  bottom: 60;
+  left: 0;
+}
